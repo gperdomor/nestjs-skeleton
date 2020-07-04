@@ -1,0 +1,15 @@
+.env
+.git
+.github
+.gitignore
+.gitlab
+.gitlab-ci.yml
+.prettierrc
+.vscode
+dist
+docker-compose*
+node_modules
+npm-debug.log
+README.md
+tmp
+tools/ci
