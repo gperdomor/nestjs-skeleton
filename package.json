@@ -71,6 +71,9 @@
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
   },
+  "engines": {
+    "node": ">= 14"
+  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
