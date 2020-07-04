@@ -1,10 +1,10 @@
 {
   "name": "nest-skeleton",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Skeleton for NestJS application",
+  "author": "Gustavo Perdomo <gperdomor@gmail.com> (https://gperdomor.dev/)",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
